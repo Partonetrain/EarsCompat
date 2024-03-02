@@ -4,6 +4,7 @@ Resource pack to make different mods compatible with Ears. Feel free to contribu
 Currently supports:
 | Mod Name | Link | Complete? |
 | -------- | ------- | ------- |
+| Botania | https://www.curseforge.com/minecraft/mc-mods/botania | Yes |
 | Archers | https://www.curseforge.com/minecraft/mc-mods/archers | Yes |
 | Paladins and Priests | https://www.curseforge.com/minecraft/mc-mods/paladins-and-priests | Yes |
 | Wizards | https://www.curseforge.com/minecraft/mc-mods/wizards | Yes |
