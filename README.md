@@ -9,6 +9,7 @@ Currently supports:
 | Paladins and Priests | https://www.curseforge.com/minecraft/mc-mods/paladins-and-priests | Yes |
 | Wizards | https://www.curseforge.com/minecraft/mc-mods/wizards | Yes |
 | Spellblades and Such | https://www.curseforge.com/minecraft/mc-mods/spellblade-next | Yes | Primordial Robe texture won't change color with element |
+| Druids of Storm and Spirit | https://www.curseforge.com/minecraft/mc-mods/druids-of-storm-and-spirit | Yes | Primalist Armor has a unique model, whether or not this one looks good or not kinda depends on your skin |
 
 ## A note on pixel density
 Some modded armors don't have the same pixel density as vanilla armors (especially if they have a custom model). 
