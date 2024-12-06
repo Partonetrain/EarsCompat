@@ -1,7 +1,8 @@
 # Ears Compatibility Resource Pack
 Resource pack to make different mods compatible with Ears. Feel free to contribute textures (see template.png)!
+Each branch is a different Minecraft version.
 
-Currently supports:
+This branch has textures for:
 | Mod Name | Link | Complete? | Notes |
 | -------- | ------- | ------- |  ------- |
 | Botania | https://www.curseforge.com/minecraft/mc-mods/botania | Yes |
