@@ -5,6 +5,8 @@ Each branch is a different Minecraft version.
 This branch has textures for:
 | Mod Name | Link | Complete? | Notes |
 | -------- | ------- | ------- |  ------- |
+| Ars Nouveau | https://www.curseforge.com/minecraft/mc-mods/ars-nouveau | Yes | Dye textures do not propagate |
+| Ars Elemental | https://www.curseforge.com/minecraft/mc-mods/ars-elemental | Yes | Chest insignia is partially hidden |
 | Botania | https://www.curseforge.com/minecraft/mc-mods/botania | Yes |
 | Archers | https://www.curseforge.com/minecraft/mc-mods/archers | No | Missing Netherite armors
 | Paladins and Priests | https://www.curseforge.com/minecraft/mc-mods/paladins-and-priests | No |  Missing Netherite armors
